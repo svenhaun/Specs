@@ -1,3 +1,7 @@
 ---
-min: 0.32.1
-last: 1.0.0.beta.6
+min: 1.0.0
+last: 1.10.1
+prefix_lengths:
+- 1
+- 1
+- 1
